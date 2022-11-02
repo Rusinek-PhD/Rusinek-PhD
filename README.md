@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rusinek-PhD
+- 👋 Hi, I’m @Rusinek-PhDst
 - 👀 I’m interested in biology, nature, sport, parties and many aspects of life
 - 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on reaserch projects
